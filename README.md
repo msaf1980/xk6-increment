@@ -24,7 +24,7 @@ To build a `k6` binary with this extension, first ensure you have the prerequisi
 - [gvm](https://github.com/moovweb/gvm)
 - [Git](https://git-scm.com/)
 
-Then, install [xk6](https://github.com/grafana/xk6) and build your custom k6 binary with the Kafka extension:
+Then, install [xk6](https://github.com/grafana/xk6) and build your custom k6 binary with increment extension:
 
 1. Install `xk6`:
   ```shell
